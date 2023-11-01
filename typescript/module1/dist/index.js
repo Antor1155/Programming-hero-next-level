@@ -1,3 +1,3 @@
 "use strict";
-var course = "next level coursse";
+const course = "next level coursse";
 console.log(course);
