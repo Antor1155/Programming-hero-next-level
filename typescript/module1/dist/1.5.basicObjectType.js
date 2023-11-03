@@ -6,4 +6,5 @@ const obj = {
     married: true,
 };
 obj.middleName = "komola";
+obj.middleName = 99;
 console.log(obj);
