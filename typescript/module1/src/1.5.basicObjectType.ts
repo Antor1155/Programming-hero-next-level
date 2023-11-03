@@ -1,6 +1,6 @@
 const obj:{
     companyName: "Social Engagement Group",
-    givenName: string,
+    readonly givenName: string,
     middleName?: string | number,
     surname: string,
     married: boolean, 
