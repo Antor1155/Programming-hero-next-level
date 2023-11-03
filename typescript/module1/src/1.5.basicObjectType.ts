@@ -1,7 +1,7 @@
 const obj:{
     companyName: "Social Engagement Group",
     givenName: string,
-    middleName?:string,
+    middleName?: string | number,
     surname: string,
     married: boolean, 
 } = {
@@ -12,5 +12,6 @@ const obj:{
 }
 
 obj.middleName = "komola"
+obj.middleName = 99
 
 console.log(obj)
