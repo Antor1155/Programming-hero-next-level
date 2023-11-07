@@ -35,7 +35,9 @@
 
     const hero = addCourseToStu<{name: string, id: number}>({name: "antor", id: 244})
 
-    console.log(hero)
+    const rich = addCourseToStu<{name: string, id: string, hasWatch: boolean}>({name: "antor", id: "2kc", hasWatch: true})
+
+    console.log(hero, rich)
 
 
 
