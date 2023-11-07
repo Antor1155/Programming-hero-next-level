@@ -61,6 +61,9 @@
     }
 
 
+    console.log(user1.bike)
+    console.log(user2.computer)
+
 
 
 
