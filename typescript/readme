@@ -1,0 +1,1 @@
+tsnd --respawn server.ts
